@@ -1,0 +1,10 @@
+C:\Users\Alumno\source\repos\Caso3\Caso3\bin\Debug\Caso3.exe.config
+C:\Users\Alumno\source\repos\Caso3\Caso3\bin\Debug\Caso3.exe
+C:\Users\Alumno\source\repos\Caso3\Caso3\bin\Debug\Caso3.pdb
+C:\Users\Alumno\source\repos\Caso3\Caso3\obj\Debug\Caso3.csprojAssemblyReference.cache
+C:\Users\Alumno\source\repos\Caso3\Caso3\obj\Debug\Caso3.Form1.resources
+C:\Users\Alumno\source\repos\Caso3\Caso3\obj\Debug\Caso3.Properties.Resources.resources
+C:\Users\Alumno\source\repos\Caso3\Caso3\obj\Debug\Caso3.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Caso3\Caso3\obj\Debug\Caso3.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Caso3\Caso3\obj\Debug\Caso3.exe
+C:\Users\Alumno\source\repos\Caso3\Caso3\obj\Debug\Caso3.pdb
